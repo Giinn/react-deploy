@@ -14,6 +14,6 @@ module.exports = {
     'react/jsx-filename-extension': 0,
     'object-curly-newline': 0,
     'comma-dangle': 0,
-    'no-console': true,
+    'no-console': 1,
   },
 };
